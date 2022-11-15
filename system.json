@@ -346,7 +346,7 @@
     "primaryTokenAttribute": "attributes.hp",
     "url": "https://github.com/Wes-l-eye/pf2e",
     "bugs": "https://github.com/Wes-l-eye/pf2e/issues",
-    "changelog": "https://github.com/Wes-l-eye/pf2e/blob/release/CHANGELOG.md",
-    "manifest": "https://github.com/Wes-l-eye/pf2e/releases/latest/download/system.json",
-    "download": "https://github.com/Wes-l-eye/pf2e/releases/latest/download/pf2e.zip"
+    "changelog": "https://github.com/Wes-l-eye/pf2e/CHANGELOG.md",
+    "manifest": "https://github.com/Wes-l-eye/pf2e/system.json",
+    "download": "https://github.com/Wes-l-eye/pf2e/pf2e.zip"
 }
