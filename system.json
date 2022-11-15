@@ -1,7 +1,7 @@
 {
     "id": "sw2e",
     "title": "Star Wars Saga 2nd Edition",
-    "description": "A community contributed game system for Pathfinder Second Edition",
+    "description": "A community contributed game system for Star Wars, based on Pathfinder Second Edition",
     "license": "./LICENSE",
     "version": "4.3.4",
     "compatibility": {
