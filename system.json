@@ -1,6 +1,6 @@
 {
-    "id": "pf2e",
-    "title": "Pathfinder 2nd Edition",
+    "id": "sw2e",
+    "title": "Star Wars Saga 2nd Edition",
     "description": "A community contributed game system for Pathfinder Second Edition",
     "license": "./LICENSE",
     "version": "4.3.4",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "The PF2e System Developers",
-            "url": "https://github.com/foundryvtt/pf2e",
+            "name": "The PF2e System Developers & Wes",
+            "url": "https://github.com/Wes-l-eye/pf2e",
             "flags": {}
         }
     ],
@@ -28,96 +28,6 @@
     ],
     "packs": [
         {
-            "name": "abomination-vaults-bestiary",
-            "label": "Abomination Vaults",
-            "system": "pf2e",
-            "path": "packs/abomination-vaults-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "age-of-ashes-bestiary",
-            "label": "Age of Ashes",
-            "system": "pf2e",
-            "path": "packs/age-of-ashes-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "agents-of-edgewatch-bestiary",
-            "label": "Agents of Edgewatch",
-            "system": "pf2e",
-            "path": "packs/agents-of-edgewatch-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "april-fools-bestiary",
-            "label": "April Fool's Bestiary",
-            "system": "pf2e",
-            "path": "packs/april-fools-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "book-of-the-dead-bestiary",
-            "label": "Book of the Dead Bestiary",
-            "system": "pf2e",
-            "path": "packs/book-of-the-dead-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "blood-lords-bestiary",
-            "label": "Blood Lords Bestiary",
-            "system": "pf2e",
-            "path": "packs/blood-lords-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "blog-bestiary",
-            "label": "Paizo Blog Bestiary",
-            "system": "pf2e",
-            "path": "packs/blog-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "extinction-curse-bestiary",
-            "label": "Extinction Curse",
-            "system": "pf2e",
-            "path": "packs/extinction-curse-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "fall-of-plaguestone-bestiary",
-            "label": "Fall of Plaguestone",
-            "system": "pf2e",
-            "path": "packs/fall-of-plaguestone.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "fists-of-the-ruby-phoenix-bestiary",
-            "label": "Fists of the Ruby Phoenix",
-            "system": "pf2e",
-            "path": "packs/fists-of-the-ruby-phoenix-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
             "name": "hazards",
             "label": "Hazards (Rulebooks)",
             "system": "pf2e",
@@ -127,235 +37,10 @@
             "flags": {}
         },
         {
-            "name": "lost-omens-impossible-lands-bestiary",
-            "label": "Lost Omens: Impossible Lands",
-            "system": "pf2e",
-            "path": "packs/impossible-lands-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "lost-omens-mwangi-expanse-bestiary",
-            "label": "Lost Omens: Mwangi Expanse",
-            "system": "pf2e",
-            "path": "packs/mwangi-expanse-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "lost-omens-monsters-of-myth-bestiary",
-            "label": "Lost Omens: Monsters of Myth",
-            "system": "pf2e",
-            "path": "packs/monsters-of-myth-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "lost-omens-travel-guide-bestiary",
-            "label": "Lost Omens: Travel Guide",
-            "system": "pf2e",
-            "path": "packs/travel-guide-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "malevolence-bestiary",
-            "label": "Malevolence",
-            "system": "pf2e",
-            "path": "packs/malevolence-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "menace-under-otari-bestiary",
-            "label": "Beginner Box Bestiary",
-            "system": "pf2e",
-            "path": "packs/menace-under-otari-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "npc-gallery",
-            "label": "NPC Gallery",
-            "system": "pf2e",
-            "path": "packs/npc-gallery.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "one-shot-bestiary",
-            "label": "One Shot Unique Bestiary",
-            "system": "pf2e",
-            "path": "packs/one-shot-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "outlaws-of-alkenstar-bestiary",
-            "label": "Outlaws of Alkenstar Bestiary",
-            "system": "pf2e",
-            "path": "packs/outlaws-of-alkenstar-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "kingmaker-bestiary",
-            "label": "Kingmaker",
-            "system": "pf2e",
-            "path": "packs/kingmaker-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
             "name": "pathfinder-bestiary",
             "label": "Bestiary 1",
             "system": "pf2e",
             "path": "packs/pathfinder-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pathfinder-bestiary-2",
-            "label": "Bestiary 2",
-            "system": "pf2e",
-            "path": "packs/pathfinder-bestiary-2.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pathfinder-bestiary-3",
-            "label": "Bestiary 3",
-            "system": "pf2e",
-            "path": "packs/pathfinder-bestiary-3.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pathfinder-dark-archive",
-            "label": "Dark Archive Bestiary",
-            "system": "pf2e",
-            "path": "packs/pathfinder-dark-archive.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pfs-introductions-bestiary",
-            "label": "PFS Introductions",
-            "system": "pf2e",
-            "path": "packs/pfs-introductions-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pfs-season-1-bestiary",
-            "label": "Season 1",
-            "system": "pf2e",
-            "path": "packs/pfs-season-1-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pfs-season-2-bestiary",
-            "label": "Season 2",
-            "system": "pf2e",
-            "path": "packs/pfs-season-2-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pfs-season-3-bestiary",
-            "label": "Season 3",
-            "system": "pf2e",
-            "path": "packs/pfs-season-3-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "pfs-season-4-bestiary",
-            "label": "Season 4",
-            "system": "pf2e",
-            "path": "packs/pfs-season-4-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "quest-for-the-frozen-flame-bestiary",
-            "label": "Quest for the Frozen Flame",
-            "system": "pf2e",
-            "path": "packs/quest-for-the-frozen-flame-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "shadows-at-sundown-bestiary",
-            "label": "Shadows at Sundown",
-            "system": "pf2e",
-            "path": "packs/shadows-at-sundown-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "strength-of-thousands-bestiary",
-            "label": "Strength of Thousands",
-            "system": "pf2e",
-            "path": "packs/strength-of-thousands-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "the-slithering-bestiary",
-            "label": "The Slithering",
-            "system": "pf2e",
-            "path": "packs/the-slithering-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "troubles-in-otari-bestiary",
-            "label": "Troubles in Otari",
-            "system": "pf2e",
-            "path": "packs/troubles-in-otari-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "night-of-the-gray-death-bestiary",
-            "label": "Night of the Gray Death",
-            "system": "pf2e",
-            "path": "packs/night-of-the-gray-death-bestiary.db",
-            "type": "Actor",
-            "private": true,
-            "flags": {}
-        },
-        {
-            "name": "crown-of-the-kobold-king-bestiary",
-            "label": "Crown of the Kobold King",
-            "system": "pf2e",
-            "path": "packs/crown-of-the-kobold-king-bestiary.db",
             "type": "Actor",
             "private": true,
             "flags": {}
@@ -532,15 +217,6 @@
             "flags": {}
         },
         {
-            "name": "pathfinder-society-boons",
-            "label": "Pathfinder Society Boons",
-            "system": "pf2e",
-            "path": "packs/pathfinder-society-boons.db",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
             "name": "spell-effects",
             "label": "Spell Effects",
             "system": "pf2e",
@@ -555,33 +231,6 @@
             "system": "pf2e",
             "path": "packs/equipment.db",
             "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "deities",
-            "label": "Deities",
-            "system": "pf2e",
-            "path": "packs/deities.db",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "iconics",
-            "label": "Iconics",
-            "system": "pf2e",
-            "path": "packs/iconics.db",
-            "type": "Actor",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "paizo-pregens",
-            "label": "Non-Iconic Pregens",
-            "system": "pf2e",
-            "path": "packs/paizo-pregens.db",
-            "type": "Actor",
             "private": false,
             "flags": {}
         },
@@ -695,9 +344,9 @@
     "gridDistance": 5,
     "gridUnits": "ft",
     "primaryTokenAttribute": "attributes.hp",
-    "url": "https://github.com/foundryvtt/pf2e",
-    "bugs": "https://github.com/foundryvtt/pf2e/issues",
-    "changelog": "https://github.com/foundryvtt/pf2e/blob/release/CHANGELOG.md",
-    "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-    "download": "https://github.com/foundryvtt/pf2e/releases/latest/download/pf2e.zip"
+    "url": "https://github.com/Wes-l-eye/pf2e",
+    "bugs": "https://github.com/Wes-l-eye/pf2e/issues",
+    "changelog": "https://github.com/Wes-l-eye/pf2e/blob/release/CHANGELOG.md",
+    "manifest": "https://github.com/Wes-l-eye/pf2e/releases/latest/download/system.json",
+    "download": "https://github.com/Wes-l-eye/pf2e/releases/latest/download/pf2e.zip"
 }
